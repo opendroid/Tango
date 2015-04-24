@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryAppColor">#9C27B0</color>
+    <color name="primaryAppColorDark">#7B1FA2</color>
+    <color name="naviationBarAppColor">#CE93D8</color>
+    <color name="accentColor">#CDDC39</color>
+    <color name="appButtonColor">#EAEAEA</color>
+    <color name="appButtonTextColor">#FFEA00</color>
+</resources>

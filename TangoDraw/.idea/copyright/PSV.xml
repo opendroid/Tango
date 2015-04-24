@@ -1,0 +1,6 @@
+<component name="CopyrightManager">
+  <copyright>
+    <option name="myName" value="PSV" />
+    <option name="notice" value="#set (&amp;#36;USER = &quot;Ajay Thakur&quot;)&#10;#set (&amp;#36;COMPANY = &quot;Pacific Street Ventures, LLC&quot;)&#10;#set (&amp;#36;EMAIL = &quot;ajay@pacificstreetventures.com&quot;)&#10;#set (&amp;#36;VERSION = &quot;0.1&quot;)&#10;/**&#10;  * Copyright (c) &amp;#36;today.year. &amp;#36;{COMPANY}&#10;  * No permission required for &quot;Fair use&quot;&#10;  * @author &amp;#36;{USER}, &amp;#36;{EMAIL} &#10;  * Created on &amp;#36;{DATE}.&#10;  * Version: &amp;#36;VERSION&#10;  */&#10;                            " />
+  </copyright>
+</component>
